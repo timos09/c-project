@@ -1,11 +1,9 @@
-# c-project
-
 #Projecta nosaukums(meteorite crusher)
 
-##Apraksts
+## Apraksts
 -tas ir spela kur tev vajag iznicinat meteoritus ar savu kosmokuģi
 
-##Galvenas funkcijas
+## Galvenas funkcijas
 -lietot wasd un space lai kontrolet savu kosmokuģi un iznicinat meteoritus
 
 ## Izmantotās tehnoloģijas
