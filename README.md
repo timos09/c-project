@@ -1,4 +1,4 @@
-#Projecta nosaukums(meteorite crusher)
+# Projecta nosaukums(meteorite crusher)
 
 ## Apraksts
 -tas ir spela kur tev vajag iznicinat meteoritus ar savu kosmokuģi
